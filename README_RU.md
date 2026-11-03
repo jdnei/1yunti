@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт 1yunti VPN (обновлено 2 ноября 2026 года)
+# Официальный сайт 1yunti VPN (обновлено 3 ноября 2026)
 
 Официальный сайт VPN-сервиса 1yunti<br>
 Новый адрес 01: [w04.1ytmoshaoli01.cc](https://to.iix.im/1yun03)<br>
