@@ -1,9 +1,11 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # 1yunti 一云梯机场官方地址(2026年11月2日更新)
 1yunti 一云梯机场官网地址</br>
-最新地址01：[w04.1ytmoshaoli01.cc](https://w04.1ytmoshaoli01.cc/register?aff=q5BRiHEN)</br>
-最新地址02：[i03.1ytaff.com](https://i03.1ytaff.com/register?aff=q5BRiHEN)</br>
-官方地址：[1yunti.com](https://1yunti.com/register?aff=q5BRiHEN)</br>
+最新地址01：[w04.1ytmoshaoli01.cc](https://to.iix.im/1yun03)</br>
+最新地址02：[i03.1ytaff.com](https://to.iix.im/1yun02)</br>
+官方地址：[1yunti.com](https://to.iix.im/1yun01)</br>
 ## 邀请码
 ```bash
 q5BRiHEN
