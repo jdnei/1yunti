@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-# آدرس رسمی VPN وان‌یونتی (1yunti) - به‌روزرسانی ۲ نوامبر ۲۰۲۶
-
+# آدرس رسمی VPN وان‌یونتی (1yunti) -(به‌روزرسانی 4 نوامبر 2026)
 وب‌سایت رسمی VPN وان‌یونتی (1yunti)<br>
 جدیدترین آدرس ۰۱: [w04.1ytmoshaoli01.cc](https://to.iix.im/1yun03)<br>
 جدیدترین آدرس ۰۲: [i03.1ytaff.com](https://to.iix.im/1yun02)<br>
